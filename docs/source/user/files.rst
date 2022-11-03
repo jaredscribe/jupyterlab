@@ -6,7 +6,7 @@ Working with Files
 Opening Files
 -------------
 
-The file browser and File menu enable you to work with files and
+The file browser and File menu (Alt-Shift-F?) enable you to work with files and
 directories on your system. This includes opening, creating, deleting,
 renaming, downloading, copying, and sharing files and directories.
 
@@ -17,7 +17,7 @@ The file browser is in the left sidebar Files tab:
    :class: jp-screenshot
    :alt: Arrow pointing to the file browser in the upper left sidebar.
 
-Many actions on files can also be carried out in the File menu:
+Many actions on files can also be carried out in the File menu, which is opened with the keyboard shortcut (Alt-Shift-F?)
 
 .. image:: images/file_menu_top.png
    :align: center
